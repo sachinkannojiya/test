@@ -65,3 +65,8 @@ function filterItems(e){
     }
   });
 }
+
+let number=10;
+for(let i=0;i<number.length;i++){
+  console.log(i);
+}
