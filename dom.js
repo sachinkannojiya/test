@@ -70,3 +70,4 @@ function filterItems(e){
 
 // complete code
 // formation
+//LocalStorage, by default, allows you to store key-value pairs. However, if you are using the same key to store user data each time without clearing or updating the existing data, the new user data will overwrite the older user data. This is because each key in LocalStorage is unique, and when you set a value for an existing key, it replaces the previous value associated with that key.
